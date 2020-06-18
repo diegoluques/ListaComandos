@@ -2,7 +2,7 @@
 Lista de comandos úteis
 
 ### Gerar apk android
-* ionic build
+* ionic build --prod
 * npx cap update
 * npx cap copy
 * npx cap open
