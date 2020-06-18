@@ -17,3 +17,5 @@ Lista de comandos úteis
 * Criar um novo arquivo db.json com a estrutura desejada
 * json-server --watch db.json
 
+### ngx-lottie
+* https://www.npmjs.com/package/ngx-lottie
