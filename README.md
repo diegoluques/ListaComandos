@@ -1,5 +1,5 @@
 ## ListaComandos
-Lista de comandos uteis
+Lista de comandos úteis
 
 ### Gerar apk android
 * ionic build
