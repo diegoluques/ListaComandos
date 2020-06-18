@@ -10,6 +10,7 @@ Lista de comandos úteis
 ### npm-check-updates
 * npm install -g npm-check-updates
 * ncu (dentro da pasta do projeto para verificar atualizações)
+* ncu -u 
 
 ### json-server
 * npm install -g json-server
