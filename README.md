@@ -19,3 +19,6 @@ Lista de comandos úteis
 
 ### ngx-lottie
 * https://www.npmjs.com/package/ngx-lottie
+
+### ng-brazil
+* https://www.npmjs.com/package/ng-brazil
