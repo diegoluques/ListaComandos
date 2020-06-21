@@ -22,3 +22,7 @@ Lista de comandos úteis
 
 ### ng-brazil
 * https://www.npmjs.com/package/ng-brazil
+
+### ng2-validation
+* https://www.npmjs.com/package/ng2-validation
+
